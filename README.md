@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Wai Phyo Aung</h1>
 <h3 align="center">A passionate backend developer from Myanmar</h3>
 
-- 🔭 I’m currently working on **Wai-Pay (Mini-Payment)**
+- 🔭 I’m currently developing on **Wai-Pay (Mini-Payment)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wai-phy](https://github.com/wai-phy)
 
